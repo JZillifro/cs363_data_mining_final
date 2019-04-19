@@ -1,5 +1,5 @@
-# Classification of Films Based on Domestic Gross
-## By: Vignesh Chilecampalli, Georgina Garza, Claire McAfee, and Jacob Zillifo
+Classification of Films Based on Domestic Gross
+By: Vignesh Chilecampalli, Georgina Garza, Claire McAfee, and Jacob Zillifo
 
 DataMiningProject.ipynb: This is the jupyter notebook which contains all of our code for the project. Here is where we complete all the tasks, including cleaning the data, feature engineering, and running the model in Darwin.
 
